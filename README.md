@@ -1,2 +1,2 @@
 # acmMode
-different with leetcode mode whilch has not input
+something different with leetcode mode whilch has provided input data.
